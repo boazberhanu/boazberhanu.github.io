@@ -1,1 +1,1 @@
-# CYEC_Youth_Resource_Hub.github.io
+# CYEC-Youth-Resource-Hub.github.io
